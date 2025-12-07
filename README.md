@@ -5,6 +5,6 @@
 Learn more about ethics, different approaches, 
 and how to apply them to decision making
 
-Written for CS200, Ball State University
-By Adam Boesen
+Written for CS200, Ball State University,
+By Adam Boesen,
 Using [Twine](http://twinery.org)
